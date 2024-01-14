@@ -6,3 +6,5 @@ requirements.txt
 .env
 dbquery.py
 msg_log.txt
+/.idea/
+/venv/
